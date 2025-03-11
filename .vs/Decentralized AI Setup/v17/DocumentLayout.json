@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI projects 2025\\Decentralized AI Setup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\test_pytorch.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|solutionrelative:Decentralized AI Setup\\test_pytorch.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\ray_cluster.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|solutionrelative:Decentralized AI Setup\\ray_cluster.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\Decentralized_AI_Setup.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|solutionrelative:Decentralized AI Setup\\Decentralized_AI_Setup.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\train_distributed.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39E9914E-75D3-4879-A88D-4B7816DF041D}|Decentralized AI Setup\\Decentralized AI Setup.pyproj|solutionrelative:Decentralized AI Setup\\train_distributed.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_pytorch.py",
+              "DocumentMoniker": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\test_pytorch.py",
+              "RelativeDocumentMoniker": "Decentralized AI Setup\\test_pytorch.py",
+              "ToolTip": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\test_pytorch.py",
+              "RelativeToolTip": "Decentralized AI Setup\\test_pytorch.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-02T21:02:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Decentralized_AI_Setup.py",
+              "DocumentMoniker": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\Decentralized_AI_Setup.py",
+              "RelativeDocumentMoniker": "Decentralized AI Setup\\Decentralized_AI_Setup.py",
+              "ToolTip": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\Decentralized_AI_Setup.py",
+              "RelativeToolTip": "Decentralized AI Setup\\Decentralized_AI_Setup.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-02T20:37:41.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "train_distributed.py",
+              "DocumentMoniker": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\train_distributed.py",
+              "RelativeDocumentMoniker": "Decentralized AI Setup\\train_distributed.py",
+              "ToolTip": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\train_distributed.py",
+              "RelativeToolTip": "Decentralized AI Setup\\train_distributed.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-02T20:37:38.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ray_cluster.py",
+              "DocumentMoniker": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\ray_cluster.py",
+              "RelativeDocumentMoniker": "Decentralized AI Setup\\ray_cluster.py",
+              "ToolTip": "D:\\AI projects 2025\\Decentralized AI Setup\\Decentralized AI Setup\\ray_cluster.py",
+              "RelativeToolTip": "Decentralized AI Setup\\ray_cluster.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-02T20:37:36.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
